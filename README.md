@@ -1,4 +1,4 @@
-# Text Analysis Web Application
+# txttoemote
 
 This web application allows users to submit text for emotion analysis and receive feedback on their input using a pre-trained machine learning model. Below is a comprehensive guide on the components of the application, including the Django, model training, and HTML template.
 
