@@ -17,6 +17,8 @@ CSS: For styling the web page.
 
 JavaScript: For handling form submission and displaying results dynamically.
 
+AJAX api: Used to send a request to the Django backend for text analysis and receive a response without reloading the page.
+
 Django: For server-side processing and handling the text analysis logic.
 
 Machine Learning: For emotion prediction using a logistic regression model.
